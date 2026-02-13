@@ -1,2 +1,2 @@
 # Carevix
-A GenAI-Intelligent Career Guidance Platform
+A GenAI-Intelligent Career Guidance Platform 🚀
